@@ -3,7 +3,7 @@
 
 - ⚡My Previous Projects [Pamba] (https://github.com/link1233/Pamba.git)
 
--                     ** [Vacay Away] (https://github.com/link1233/Vacay-Away.git)
+- ⚡My Previous Projects [Vacay Away] (https://github.com/link1233/Vacay-Away.git)
 
 - 🌱 I’m currently learning **React as well as improving my Ruby, Ruby on Rails and JS*
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/7gpn408qlk](https://flowcv.com/resume/7gpn408qlk)
 
-- ⚡ Fun fact **I love Ping Pong**
+- 🏓 Fun fact **I love Ping Pong**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

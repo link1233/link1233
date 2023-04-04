@@ -5,13 +5,13 @@
 
 - ⚡My Previous Projects [Vacay Away] (https://github.com/link1233/Vacay-Away.git)
 
-- 🌱 I’m currently learning **React as well as improving my Ruby, Ruby on Rails and JS*
+- 🌱 I’m currently learning **React as well as improving my Ruby, Ruby on Rails and JS skills*
 
-- 💬 Ask me about **Front End Engineering and Design**
+- 💬 Ask me about **Front End Engineering and Design or Art History**
 
 - 📫 How to reach me **jjwilsonart@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/7gpn408qlk](https://flowcv.com/resume/7gpn408qlk)
+- 📄 Know about my experiences [Johnathan's CV](https://flowcv.com/resume/7gpn408qlk)
 
 - 🏓 Fun fact **I love Ping Pong**
 

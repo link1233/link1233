@@ -3,7 +3,7 @@
 
 - ⚡My Previous Projects [Pamba] (https://github.com/link1233/Pamba.git)
 
-                       **[Vacay Away] (https://github.com/link1233/Vacay-Away.git)
+-                     ** [Vacay Away] (https://github.com/link1233/Vacay-Away.git)
 
 - 🌱 I’m currently learning **React as well as improving my Ruby, Ruby on Rails and JS*
 
